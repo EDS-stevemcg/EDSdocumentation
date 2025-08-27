@@ -18,7 +18,6 @@ Correct use improves:
 - To manage dense content like FAQs, coverage, or endorsements  
 - To avoid long scrolls or overwhelming layouts  
 
->[!Tip]
 >### Decision tree: When to use accordions
 >- **Is the content optional or secondary?**  
 >  - Yes → Use accordions  
