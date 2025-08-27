@@ -1,4 +1,5 @@
 # Accordions
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Accordions let users expand or collapse content within one screen. They reduce clutter, support progressive disclosure, and keep focus on one section at a time.
 
