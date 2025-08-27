@@ -66,7 +66,7 @@ Correct use improves:
 
 ## Common mistakes
 
-| Mistake | Correct approach |
+| **Mistake** | **Correct approach** |
 |---------|------------------|
 | Using vague headings | Use clear labels like “Deductibles” or “Rental Coverage” |
 | Hiding essential content | Keep critical info visible by default |
@@ -110,8 +110,9 @@ Correct use improves:
 
 ## Related components and patterns
 
-| Component | Component | Pattern |
-|-----------|-----------|---------|
+Component
+Component
+Component
 
 ---
 
@@ -119,6 +120,7 @@ Correct use improves:
 
 | Date       | Description                                      |
 |------------|--------------------------------------------------|
-| 08/13/2025 | Released – EDS Team                              |
+| 08/27/2025 | Create Markdown version in Git                             |
+| 08/13/2025 | Update tone/voice                              |
 | 03/28/2025 | Reviewed – Documentation Team – AZ               |
 | 03/28/2025 | Draft complete – SM                              |
