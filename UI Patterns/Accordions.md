@@ -19,17 +19,17 @@ Correct use improves:
 - To avoid long scrolls or overwhelming layouts  
 
 >### Decision tree: When to use accordions
->- **Is the content optional or secondary?**  
->  - Yes → Use accordions  
->  - No → Show inline or use tabs  
+>**Is the content optional or secondary?**  
+>- Yes → Use accordions  
+>- No → Show inline or use tabs  
 >
->- **Do users need to compare sections at once?**  
->  - Yes → Allow multiple panels open  
->  - No → Restrict to one open at a time  
+>**Do users need to compare sections at once?**  
+>- Yes → Allow multiple panels open  
+>- No → Restrict to one open at a time  
 >
->- **Will users return often?**  
->  - Yes → Use clear labels and collapsible panels  
->  - No → Consider default-expanded content
+>**Will users return often?**  
+>- Yes → Use clear labels and collapsible panels  
+>- No → Consider default-expanded content
 
 ### When not to use
 - If critical info is hidden by default  
