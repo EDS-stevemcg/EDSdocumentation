@@ -1,6 +1,3 @@
-# Accordions
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 Accordions let users expand or collapse content within one screen. They reduce clutter, support progressive disclosure, and keep focus on one section at a time.
 
 In insurance platforms, accordions often appear in quote breakdowns, FAQs, policy documents, endorsements, and billing histories. They are useful when space is limited and users do not need to see all content at once.
